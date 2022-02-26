@@ -1,0 +1,408 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Robert Earle of Essex his ghost, sent from Elizian to the nobility, gentry, and communaltie of England.</title>
+            <author>Scott, Thomas, 1580?-1626.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1624</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 50 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73138</idno>
+            <idno type="STC">STC 22084A</idno>
+            <idno type="STC">ESTC S123283</idno>
+            <idno type="EEBO-CITATION">99898165</idno>
+            <idno type="PROQUEST">99898165</idno>
+            <idno type="VID">133103</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73138)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133103)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2084:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Robert Earle of Essex his ghost, sent from Elizian to the nobility, gentry, and communaltie of England.</title>
+                  <author>Scott, Thomas, 1580?-1626.</author>
+               </titleStmt>
+               <extent>[2], 18, [4], 11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>By John Beale?],</publisher>
+                  <pubPlace>Printed in Paradise [i.e. London :</pubPlace>
+                  <date>1624.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Thomas Scott.</note>
+                  <note>The imprint is fictitious; in fact printed in London by John Beale? (STC).</note>
+                  <note>"A post-script, or, A second part of Robert Earle of Essex his ghost" has separate pagination and title page with same imprint; register is continuous.</note>
+                  <note>Lacks leaf C3.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Essex, Robert Devereux, --  Earl of, 1566-1601 --  Early works to 1800.</term>
+               <term>England --  Foreign relations --  Spain --  Early works to 1800.</term>
+               <term>Spain --  Foreign relations --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:133103:1"/>
+                  <pb facs="tcp:133103:1"/>
+                  <p>ROBERT EARLE OF ESSEX HIS GHOST.</p>
+                  <p>Sent from ELIZIAN: TO THE NOBILITY, GENTRY, AND COMMV<g ref="char:EOLhyphen"/>NALTIE OF ENGLAND.</p>
+                  <q xml:lang="lat">Virtutum Comes Jnvidia.</q>
+                  <p>Printed in PARADISE. 1624.</p>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb facs="tcp:133103:2"/>
+                  <pb n="1" facs="tcp:133103:2"/>
+                  <head>TO THE NOBI<g ref="char:EOLhyphen"/>LITY, GENTRY, AND Communalty of <hi>England.</hi>
+                  </head>
+                  <opener>
+                     <salute>Nobles, Gentlemen, Commons:</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">A</seg>Lthough in this moſt holy and glorious Aſ<g ref="char:EOLhyphen"/>ſembly of Angels and Saints, in the moſt High Starre Chamber Court of Heauen, where Al<g ref="char:EOLhyphen"/>mighty God, and his Sonne Chriſt Ieſus, are King and Prince, wee the Saints do neither partici<g ref="char:EOLhyphen"/>pate nor ſympathize of the good or euill condition of yee Mortals on earth: Yet, ſeeing it is a part of that glory, that God affoordeth vs in Heauen, to haue a meaſure of knowledge of your condition on earth; and I, particularly taking knowledge of the miſerable and diſtracted preſent eſtate, of the whi<g ref="char:EOLhyphen"/>lome flouriſhing Realme of <hi>England,</hi> in the dayes of my then dread Soueraigne, (now fellow Saint) Queene <hi>Elizabeth,</hi> (of bleſſed and immortall memo<g ref="char:EOLhyphen"/>ry on Earth, and in Heauen,) could doe no leſſe then giue you this my <hi>Sacred Declaration,</hi> and <hi>Ad<g ref="char:EOLhyphen"/>moniſhment,</hi>
+                     <pb n="2" facs="tcp:133103:3"/> which I ſend you, by this my <hi>Bleſſed Genius,</hi> written with a pen made of an <hi>Angels Pinion;</hi> and agreeing with my <hi>Apology</hi> which I left behind me on Earth, in mine owne defence, and for the good of my Country, after my diſceaſe.</p>
+                  <p>The lawfull ſucceſſion of your now King, when I was amongſt you on earth, I neuer queſtioned, but maintayned, and was euer ready to main<g ref="char:EOLhyphen"/>tayne (with dint of my Sword, if neede had bin.) his Title, againſt whomſoeuer offered to queſti<g ref="char:EOLhyphen"/>on the ſame, as was, and is well knowne to his Maieſty. That he was a prudent, learned, and religious (educated) Prince, I alſo neuer doub<g ref="char:EOLhyphen"/>ted, But that ſuch a prudent, learned, and re<g ref="char:EOLhyphen"/>ligious Prince, ſhould bee ſo farre miſled, by (ſome) falſe hearted Counſellours at home, and fawning Forraine Embaſſadors from the enemies of God and his Goſpell proſeſſed in <hi>England,</hi> to the detriment of the Kingdome, That, I ſay makes me not a little to maruaile, and mourne I ſhould for my Natiue Country, but that here in Heauen, we are not ſubiect to paſſion.</p>
+                  <p>Vpon my certaine knowledge, notwithſtand<g ref="char:EOLhyphen"/>ing all the faire ſhewe of league and amity, be<g ref="char:EOLhyphen"/>twixt <hi>Iames King of Scots,</hi> and <hi>Philip King of Spaine,</hi> the Crowne of <hi>Scotland</hi> was no longer ſafe on King <hi>Iames</hi> his head, then whiles my Soueraigne Lady, and Miſtreſſe Queene <hi>Eliza<g ref="char:EOLhyphen"/>beth,</hi> by her valiant men of Action, curbed King <hi>Phillip,</hi> and kept him in awe: For, had his am<g ref="char:EOLhyphen"/>bitious, wicked, and deuiliſh deſigne of <hi>Englands</hi>
+                     <pb n="3" facs="tcp:133103:3"/> inuaſion in 88. taken effect, Is there any ſo chil<g ref="char:EOLhyphen"/>diſh to thinke that his inuaſion would haue had any Period at <hi>Barwick?</hi> Sure I am, King <hi>Iames</hi> had wiſedome enough, to know that his Crowne and Kingdome lay then at the Stake, in the ſe<g ref="char:EOLhyphen"/>cond place, next vnto <hi>England.</hi> For K. <hi>Iames</hi> then of <hi>Scotland</hi> made a <hi>ſweete Sonet,</hi> as a Mo<g ref="char:EOLhyphen"/>nument and Commemoration of his and our de<g ref="char:EOLhyphen"/>liuerance, from that <hi>Forraine and godleſſe Fleete,</hi> as he then termed <hi>It:</hi> Which <hi>Sonet</hi> as I then re<g ref="char:EOLhyphen"/>ceiued it, I here preſent vnto your view and conſide<g ref="char:EOLhyphen"/>ration.</p>
+                  <q>
+                     <l>The <hi>Nations</hi> banded 'gainſt the Lord of might</l>
+                     <l>Prepar'd a <hi>Force,</hi> and ſet them to the way:</l>
+                     <l>
+                        <hi>Mars</hi> drest himſelfe in ſicke and awfull plight,</l>
+                     <l>The like whereof was neuer ſeene, they ſay:</l>
+                     <l>They forward came in monſtrous aray,</l>
+                     <l>Both Sea and Land be ſet vs euery where,</l>
+                     <l>Brags threatned vs a ruinous decay,</l>
+                     <l>What came of that? the iſhue did declare:</l>
+                     <l>The Winds began to toſſe <hi>them</hi> here and there,</l>
+                     <l>The Seas began in foaming waues to ſwell:</l>
+                     <l>The number that eſcap'd it fell <hi>them</hi> faire,</l>
+                     <l>The reſt were ſwallow'd vp in gulfes of Hell.</l>
+                     <l>But how were all theſe things miraculous done?</l>
+                     <l>God lookes at them, out of his Heauenly Throne.</l>
+                  </q>
+                  <p>(The ſame <hi>Sonet</hi> is extant in Latine by <hi>Metel<g ref="char:EOLhyphen"/>lanus</hi> L. Chancellor of <hi>Scotland.</hi>)</p>
+                  <p>Matters ſo ſtanding, the maruaile is, That
+<pb n="4" facs="tcp:133103:4"/> vpon the mature ſhutting in of the euening of your long Summers day of Queene <hi>Elizabeths</hi> Reigne, King <hi>Iames</hi> lawfully and peaceably ſucceeding to the Crownes of <hi>England,</hi> and <hi>Ireland,</hi> he ſo ſud<g ref="char:EOLhyphen"/>dainly concludes (as it were) an inviolable league, with that ambitious King <hi>Philip</hi> of <hi>Spaine,</hi> that ne<g ref="char:EOLhyphen"/>uer made league with any King, Prince, or State, but for his owne end and aduantage.</p>
+                  <p>If I were on earth, I know ſome of you would an<g ref="char:EOLhyphen"/>ſwer me, King <hi>Iames</hi> was a peaceable Prince, and ſo loued to be at peace, and in amity with other Chri<g ref="char:EOLhyphen"/>ſtian Princes: Yea, and it ſeemes your King him<g ref="char:EOLhyphen"/>ſelfe, is much affected with the very name of PEACE, alleadging, that he hath beene a peaceable King from his Cradle; That BEATI PACIFICI is his happy deſtined <hi>Motto;</hi> and with ſuch like ſelfe-plea<g ref="char:EOLhyphen"/>ſing ſongs, hath a long time ſung a <hi>Requiem</hi> to him<g ref="char:EOLhyphen"/>ſelfe, &amp;c. I muſt confeſſe, it is a happy thing for Chriſtian, and Religious Kings, Princes, and States to be at peace, in vnity, and amity one with an o<g ref="char:EOLhyphen"/>ther. But on the other ſide, it is as vnhappy and daungerous a thing to haue league or amity with Romane-Catholique Kings, and Princes, who are, I ſay, ſworne and profeſt enemies to God, and his Goſpell, as was, and is this great Catholique King <hi>Philip,</hi> and his <hi>Austrian-Caſtillian</hi> family.</p>
+                  <p>When I was a ſeruant to my Prince and Coun<g ref="char:EOLhyphen"/>try on earth, my affection in nature, was indiffe<g ref="char:EOLhyphen"/>rent, <hi>Tam Marti, quam Mercurio,</hi> and I was more en<g ref="char:EOLhyphen"/>flamed with the loue of <hi>knowledge,</hi> then the loue of <hi>Fame:</hi> which ſome of your<note n="*" place="margin">
+                        <hi>Henry</hi> Earle of <hi>Southamton,</hi> &amp;c.</note> 
+                     <hi>Men of State,</hi> and <hi>great place,</hi> yet liuing, that knew my heart can beare me witneſſe.</p>
+                  <pb n="5" facs="tcp:133103:4"/>
+                  <p>But my Noble, and Religious<note n="*" place="margin">He died Earle Marſhall of <hi>Ireland. An.</hi> 1576.</note> Father, <hi>Walter</hi> Earle of <hi>Eſſex,</hi> vpon his Death-bed, he gaue me in precept three maine and weighty matters, <hi>viz.</hi> Firſt, <hi>To ſerue God according to his Ordinances in his Word.</hi> Secondly, <hi>To obey my Prince.</hi> Thirdly, <hi>To loue and ſerue my Country,</hi> vnto which he added, <hi>To beware of and to hate all Popiſh ſuperſtition and Idolatry.</hi> All which he religiouſly enlarged, and preſſed vnto me, the more, in regard of my tender, youthfull, and vnripe yeares. Which <hi>Swan-like Song</hi> of my deare Parent, tooke ſo deepe an impreſſion in me, that I being called by my Soueraigne the Queene, (and be<g ref="char:EOLhyphen"/>ing but a youth, ſhe was pleaſed to call me her Boy) to ſerue her Maieſty and my Country, did the wil<g ref="char:EOLhyphen"/>linger yeeld and <hi>obey my Prince</hi> her Command, and entred into Action.</p>
+                  <p>Firſt, in the yeare of our Lord 1585, and xix. of my Pupill-age, I went with the Earle of <hi>Leiceſter</hi> my Father in law into the Netherlands, where I had the Honorable charge of Generall of the Horſe, in a faire Army: Where, I aduentured my life, and ſub<g ref="char:EOLhyphen"/>iected my ſelfe to many kinds of wants (diſagreeing with my education and yeeres, &amp;c.) Which I did for the Honor of my Prince and Country.</p>
+                  <p>Secondly, in the yeare 1589. I enterprized my voyage into <hi>Portugall,</hi> with a poore diſtreſted and exiled King, <hi>Don Antonio,</hi> whom I many times (with pitty) heard repeate (with teares) the ſtory of his op<g ref="char:EOLhyphen"/>preſſions by <hi>Phillip</hi> King of <hi>Spaine;</hi> who by force and tyranny had vſurped his Crowne of <hi>Portugall:</hi> Alſo, conſidering the enemy againſt whom I went, an in<g ref="char:EOLhyphen"/>ſolent, cruell, and vſurping Prince, that diſturbed
+<pb n="6" facs="tcp:133103:5"/> the Common peace, was a generall enemy to the liberty of all Chriſtendome; and in particular aſpired the Conqueſt of my Country; and the cauſe I went, was to the deliuer the oppreſſed out of the hands of the Oppreſſour; and (by giuing the <hi>Castillian</hi> his handfull at home) to free both mine owne Country and our Confederates from the feare and danger of his attempts: And laſtly, a time in which I went, when as mine eyes, full of diſdaine, had ſo lately ſeene his (falſly called) <hi>Invincible Armado</hi> ſayle by our ſhore: when all the braue hearts in <hi>England</hi> boy<g ref="char:EOLhyphen"/>led till they ſaw that <hi>inſolent enemy</hi> taught, both to know <hi>himſelfe,</hi> and valew <hi>Vs.</hi> And had the <hi>Portu<g ref="char:EOLhyphen"/>gals</hi> riſen and aſſiſted me, I ſhould haue gone nigh to haue pluckt <hi>Portugals</hi> Crowne off the Vſurpers head, and placed it on the lawfull Kings head: but they for feare of <hi>Philip</hi> were faithleſſe to <hi>Antonio.</hi> Yet in that my Voyage, what I attempted to ayde the wronged and baniſhed King, and for Honor of my Prince and Countrey, if you know it not, let your Chronicles reſolue you.</p>
+                  <p>Thirdly, in the yeare 1591. I conducted and was Generall of her Maieſty, my Soueraignes ſuccours to <hi>Henry</hi> the <hi>French</hi> King, a Prince, who for his admirable valour, and often fighting with his owne hands, againſt his enemies, was not onely the moſt famous, but the moſt renowmed and redoub<g ref="char:EOLhyphen"/>ted Captaine of Chriſtendome: And the end of that my ſeruice, was, to free the maritine parts of <hi>Normandy</hi> from the hands of the league and power of the <hi>Spaniard,</hi> that thereby he our enemy ſhould find leſſe ſuccour or fauour in thoſe Seas, &amp;c. This
+<pb n="7" facs="tcp:133103:5"/> alſo was done, for Honor of my Prince and Coun<g ref="char:EOLhyphen"/>trey.</p>
+                  <p>Fourthly, in the yeare 1596. I vndertooke my Spaniſh Voyage to <hi>Cadiz,</hi> where, not only I ſoone ſeized on, ſacked, and burnnt the Towne, and en<g ref="char:EOLhyphen"/>riched my Followers, and Souldiers, but we burnt his beſt Shipping, and brought away his Ordi<g ref="char:EOLhyphen"/>nance, and ſome Ships, deſtroying his Sea Proui<g ref="char:EOLhyphen"/>ſions: Yea, put him to ſuch charge and loſſe, as he ſhortly after played Bankerupt, with all his Credi<g ref="char:EOLhyphen"/>tors, &amp;c. And this likewiſe I did, for Honor of my Prince and Country.</p>
+                  <p>Fiftly, in the yeare 1597. my Spaniſh Voyage towards the <hi>Tercera's,</hi> was intended with her Maie<g ref="char:EOLhyphen"/>ſties leaue, and by her command for <hi>Fayall,</hi> to aſſaile the Adelantado there, and thither I ſhaped my courſe; and had it beene proſperous, and fortunate, I had made my Soueraigne ſuch an abſolute Queene of the Ocean, and diſarmed, and diſabled the ene<g ref="char:EOLhyphen"/>my at Sea, as that ſhe might eyther haue enforced him to any conditions of Peace, or made War on him, to her infinite Aduantage, and his vtter Ruine.</p>
+                  <p>But that my deſigne was fatally fruſtrated by vio<g ref="char:EOLhyphen"/>lent and long Tempeſts, which tooke vs in the heigth of 46. Which ſcattered our Fleete, diſa<g ref="char:EOLhyphen"/>bled and almoſt drowned moſt of our principall Ships, and (when we could no longer beare it vp againſt the Wind) draue vs backe vpon our owne Coaſt; and to what a deſperate caſe my owne Ship was brought? there witneſſes were enow: My attempts and endeauours were neuertheleſſe, my dangers, and endurance of hardneſſe the more, &amp;c, And
+<pb n="8" facs="tcp:133103:6"/> all for honour of my Prince and Country.</p>
+                  <p>(When <hi>Philip</hi> King of <hi>Spaine,</hi> that mortall ene<g ref="char:EOLhyphen"/>my of my Prince and Country, had made many attempts, and aſſaults vpon Vs; fayled and was fru<g ref="char:EOLhyphen"/>ſtrated in all, then he begged of the Pope, my Soueraignes Kingdome of <hi>Ireland,</hi> and ſent his Baſtard brother, <hi>Don Iohn D'Aquila,</hi> to take poſſeſ<g ref="char:EOLhyphen"/>ſion of it.</p>
+                  <p>But this Meſſinger (a Vice-roy in his conceit) was ſoone ſent backe with an Engliſh-Flea in his Spaniſh eare, that made ſuch a buzzing in his head, that eyther with that, or elſe by a Spaniſh-figge, the good <hi>Don</hi> diſcontentedly departed this life, in ſhort time after his returne into <hi>Spaine.</hi>)</p>
+                  <p>At length, (and it was my laſt Voyage) by command of my Soueraigne I was made, and ſent Lord Generall into <hi>Ireland</hi> of all her Maieſties Forces. And there, when I had begun to ſubjugate thoſe head-ſtrong Rebels, and brought their Ring-leader (that notable Rebell <hi>Tyr-oen</hi>) vpon his knees: I was forced abruptly to returne back into <hi>England:</hi> and my Commiſſion was conferred vpon an other Noble<note n="*" place="margin">Charles <hi>L.</hi> Mountjoy.</note>, my inferiour: who was ſent ouer to wade againſt thoſe Rebels, after I had broken the Ice a<g ref="char:EOLhyphen"/>forehand; and hee had the Honor, happily to per<g ref="char:EOLhyphen"/>forme what I had carefully and painefully, projected and intended. In the interim, the fatall threed of my mortall life, was almoſt ſpun, and my glaſſe nigh through run. My enemies laying many hey<g ref="char:EOLhyphen"/>nous crimes vnto my charge, and therewith abu<g ref="char:EOLhyphen"/>ſing my Soueraignes eares, and incenſing her ſacred Maieſty againſt me.</p>
+                  <pb n="9" facs="tcp:133103:6"/>
+                  <p>But, beloued Mortals, it is not my meaning (nei<g ref="char:EOLhyphen"/>ther would I haue you expect it) to touch the injury of the times in that my latter Time, nor the <hi>State-faction</hi> of <hi>men in place, my then enemies:</hi> I forbeare to touch, alſo how by the machinations of men, my gracious Soueraigne was forced to ſigne the haſtning of my Death: For before my head was ſe<g ref="char:EOLhyphen"/>uered from my Shoulders, (with which ſtroake my immortall ſoule was ſeperated from my mortall bo<g ref="char:EOLhyphen"/>dy) I forgaue them all, and left my cauſe to God, to whom vengeance is due: And certes, my God hath beene throughly avenged of them all, (my enemies,) to their diſhonor and diſgrace on earth; yea, before Men and Angels. And all was but like an impetuous ſtorme to haſten my arriuing in the Harbour of Heauen: Here, where there is no roome for reuenge, nor ought elſe but holy loue: which hath moued me to ſend you of my <hi>quondam</hi> Coun<g ref="char:EOLhyphen"/>try this my declaration or diſcourſe (call it what you will:) Wherein, I liſt not neither to meddle with the <hi>Arcana imperij,</hi> of your King and State, further then ſhall beſeeme a zealous Patriot, that tendreth ſtill, and wiſheth the wel-fare and flouriſhing State of his once deare and natiue Country.</p>
+                  <p>And now, well beloued Engliſhmen, in the premiſſes I haue giuen you a briefe accompt of my life, and as it were an <hi>Epitome</hi> of my time-ſpending on earth. In which imployments, I empayred my hereditary eſtate; loſt my deare and onely<note n="*" place="margin">Mr <hi>Walter Devreux,</hi> ſlaine at the ſiege of <hi>Rouen.</hi> 1591.</note> brother, the halfe Arch of my Houſe, and buried alſo many of my neereſt and deareſt friends; ſubjected my ſelfe to the rage of the Seas violence, generall plagues,
+<pb n="10" facs="tcp:133103:7"/> famine, and all kind of wants; diſcontentments of vndiſciplined and vnruly multitudes, and receptati<g ref="char:EOLhyphen"/>on of all euents: and all, for the Honor and re<g ref="char:EOLhyphen"/>nowme of my gracious Prince, and deare Country, keeping in minde my fathes Charge: <hi>Sit tota Britan<g ref="char:EOLhyphen"/>nia Testis.</hi>
+                  </p>
+                  <p>Now beloued Mortalls, let me come more neere<g ref="char:EOLhyphen"/>ly to Counſell and aduiſe with yon. Firſt, that the Spaniſh Kings reuengefull humour was inſatiable appeared, when, in my time <hi>Anno</hi> 1597. when he came newly out of a Trance, which was thought would haue beene his laſt ſwoune, he asked (the firſt word that hee ſpake) whether the <hi>Adelantado</hi> were gone for <hi>England;</hi> and if remorſe of conſci<g ref="char:EOLhyphen"/>ence would haue quenched his thirſt of reuenge, he would not, a little before his death, in his deuotions, being all Maſſe, haue <hi>vowed</hi> to <hi>be reuenged on Eng<g ref="char:EOLhyphen"/>land, though hee ſold all thoſe Candleſtickes vpon the Altar, before him.</hi>
+                  </p>
+                  <p>Secondly, that all Treaties with <hi>Spaine</hi> (an idola<g ref="char:EOLhyphen"/>trous and irreligious Nation) were both vnſafe and dangerous, I proued by vn-anſwerable arguments in my <hi>Apology, page</hi> 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30. And how <hi>injurious the zealous peace<g ref="char:EOLhyphen"/>makers of thoſe times,</hi> were to the State, I proued <hi>page</hi> 35, 36. <hi>How neceſſary gainfull, and honorable</hi> it was, for <hi>the State of</hi> England, to haue <hi>Warres with Spaine.</hi> I proued <hi>page</hi> 36, 37. and ſo to the end of my Apology. But ſome of you haply will how ſay, That now, <hi>The Times are changed,</hi> and with the time the <hi>Spaniards mind is altered.</hi> Indeede, I remember the old Poet ſayd,
+<q xml:lang="lat">
+                        <pb n="11" facs="tcp:133103:7"/>Tempora mutantur et nos mutamur in illis.</q>
+                  </p>
+                  <p>But that is quite contrary in the Spaniard: For, although old King <hi>Phillip</hi> be dead, yet there is a young (Ieſuited) <hi>Phillip</hi> ſprung from his loynes. It is an old and homely Proverbe, <hi>That which is bred in the bone, will neuer out of the fleſh:</hi> But it is a true and obſeruable ſaying,<note place="margin">Apol. page <hi>19.</hi>
+                     </note> and in <hi>that Houſe</hi> aboue all others. <q>For, as I told you in my Apology: when<g ref="char:EOLhyphen"/>euer old King <hi>Phillip</hi> ſhould die, his ſonnes blood would be as hot, and hotter than his Fathers, and his humour of ambition like to be greater, as ha<g ref="char:EOLhyphen"/>uing beene bred <hi>in Domo regnatrice,</hi> and his mind ſwolne, <hi>vetere &amp; inſita Auſtriacae familiae ſuberbia.</hi>
+                     </q> So as, in the Spaniards ſeeming peaceable proffers there is no hope, &amp;c.</p>
+                  <p>Nay, if it chance there be <hi>Infancy,</hi> or <hi>Idiotiſme</hi> found in any <hi>Heire</hi> or <hi>Offſpring</hi> of <hi>that Race,</hi> the ſtate of <hi>Spaine</hi> are politique enough, as being ſworne thereunto, (though by neuer ſo diſhonorable and degenerous meanes and machinations) to promote the enlargement of <hi>his Westerne Monarchy.</hi> And certes, he hauing of late yeares, ſince the death of my Soueraigne Lady <hi>Elizabeth,</hi> gotten ſuch footing in Chriſtendome, by diſpoſſeſſing off and encroach<g ref="char:EOLhyphen"/>ing vpon ſome Princes and States their ancient and lawfull <hi>Inheritance, Princedomes,</hi> and <hi>Territories,</hi> by which meanes hee hath as it were beguirt <hi>France</hi> with his Garriſons: Is, I ſay, his ambition thereby leſſened? Surely no, but as his <hi>Conquests</hi> are inlarged; ſo his <hi>Ambition</hi> and <hi>Malice</hi> are aboundantly increa<g ref="char:EOLhyphen"/>ſed towards other Chriſtian Princes and States: Witneſſe, his late cruell and <hi>bloody attempts,</hi> and
+<pb n="12" facs="tcp:133103:8"/> 
+                     <hi>perpetuall deſignes</hi> to his <hi>Vniuerſall Monarchy;</hi> and <hi>the progreſſe of his Conqueſts,</hi> with the helpe of his Confederates of the (terreſtriall) omnipotent <hi>Au<g ref="char:EOLhyphen"/>ſtrian Houſe,</hi> in <hi>Italy,</hi> the <hi>Grizons Country, Suitzer<g ref="char:EOLhyphen"/>land, Bohemia, Germany,</hi> and I ſay, the <hi>Frontiers</hi> of flouriſhing <hi>France,</hi> ſince the Death of <hi>Henry</hi> the Fourth the French King, of famous memory. And in all theſe places, he and the Emperour his Confe<g ref="char:EOLhyphen"/>derate and Couſin, do labour to extirpate the Goſ<g ref="char:EOLhyphen"/>pell, and perſecute the profeſſours thereof, euen vn<g ref="char:EOLhyphen"/>to the Death.</p>
+                  <p>It would be knowne, what King <hi>Iames</hi> ſayth to all this: who is Defender of the Faith, and Head of all the Vnited Kings and Princes of the Religion in Chriſtendome.</p>
+                  <p>There is here in Heauen ſecret intelligence, that He, not contenting himſelfe with making that League with <hi>Spaine,</hi> hath alſo entertained a <hi>Treaty</hi> of <hi>Marriage</hi> for the Prince <hi>his onely Sonne,</hi> with the <hi>Daughter of Spaine:</hi> And certes, the very Angells haue bluſhed at this newes, that your King, who is of ſo profound judgement, learning, and knowledge in Diuine matters, ſhould euer aſſent to <hi>Treat</hi> of <hi>Matching</hi> his onely Sonne, with a wife of a contrary <hi>Religion:</hi> Eſpecially with an <hi>Impe</hi> ſprung from ſuch an <hi>incestuous Generation,</hi> as is that of <hi>Austria and Spaine,</hi> or <hi>Spaine and Auſtria,</hi> chuſe you whither, which is vnanſwerably proued by one of your moſt accute and ingenious<note place="margin">
+                        <hi>Sandy's</hi> Relati<g ref="char:EOLhyphen"/>on of the Weſt parts, <hi>pag</hi> 26, 27</note> Writers. Without doubt, King <hi>Iames</hi> cannot but know in his conſcience, that it is directly againſt the reuealed Will of God in Holy Writ, for Chriſtian Princes and people that profeſſe
+<pb n="13" facs="tcp:133103:8"/> the Goſpell, to match with Romane-Catholickes; which made <hi>himſelfe</hi> match with <hi>Denmarkes Daugh<g ref="char:EOLhyphen"/>ter,</hi> a Proteſtant Princeſſe, and afterwards hee matched his only Daughter with the <hi>Count Palatine,</hi> a Proteſtant Prince; witneſſe alſo his Maieſties owne Pen, in his <hi>Baſilicon Doron.</hi>
+                  </p>
+                  <p>How comes it then to paſſe? that hee is ſo miſ<g ref="char:EOLhyphen"/>led, as not onely to entertaine of this <hi>Treaty with Spaine,</hi> but ſuffer himſelfe to be ſo baffled and abu<g ref="char:EOLhyphen"/>ſed, as that about the ſayd <hi>Treaty</hi> hee hath waſted the <hi>Treaſure</hi> of the Kingdome, in a farre greater meaſure then his Royall Predeceſſour Queene <hi>Eliza<g ref="char:EOLhyphen"/>beth,</hi> my gracious Soueraigne, did to maintaine Warres againſt <hi>Spaine</hi> and all his his Adherents? I feare, I feare, you of his Nobility, and Councell (vn<g ref="char:EOLhyphen"/>to whom it belongs) are not ſo faithfull, true hear<g ref="char:EOLhyphen"/>ted, and ſtout, as religiouſly to aduiſe, and Coun<g ref="char:EOLhyphen"/>ſell your King, as you ought, not to ſuffer him<g ref="char:EOLhyphen"/>ſelfe to be ſo abuſed, his Kingdome to be wel-nigh ruined, and his ſubiects impoueriſhed.</p>
+                  <p>Oh the flouriſhing State of your <hi>Faery-Land,</hi> in the dayes of yore, whiles I liued on earth, vnder the Gouernment of that glorious Queene, of eter<g ref="char:EOLhyphen"/>memory: The Chriſtian World did admire her Gouernment, and your flouriſhing State; Nay, the very Mahumetane<note n="*" place="margin">Speed, in Hiſt. pag. <hi>852, 853.</hi>
+                     </note> Monarchs did admire and ac<g ref="char:EOLhyphen"/>knowledge the ſame.</p>
+                  <p>But now, the caſe is altered, (and) I can hard<g ref="char:EOLhyphen"/>ly forbeare to weepe, to ſee what a <hi>piteous Petition</hi> that glorious Queene, my now fellow Saint <hi>Eliza<g ref="char:EOLhyphen"/>beth,</hi> lately receiued from you the <hi>Commons of Eng<g ref="char:EOLhyphen"/>land:</hi> But thereof I ſay no more, conſidering ſhe
+<pb n="14" facs="tcp:133103:9"/> according to her Commiſſion from the higheſt Po<g ref="char:EOLhyphen"/>wer anſwered that your Petition.</p>
+                  <p>Let me now admoniſh you all, of the Nobility, Gentry, and Communalty: Firſt, ſeriouſly and yet ſubmiſſiuely, to dehort and diſſwade your King, to leaue off and abſolutely diſſolue all <hi>Treaties</hi> of <hi>Matches,</hi> or whatſoeuer elſe with that perfidious and daungerous Spaniſh Nation; and in lieu of the <hi>Spaniſh Match</hi> to promote the <hi>Engliſh March.</hi> What though his Maieſties Treaſure be drawne deepe into, the poore Country-man by theſe late hard yeares be impoueriſhed, the Merchandize and trading of your Kingdome much decayed, &amp;c. Yet, if your ſumptuous Buildings, your ſurfetting Diets, your Prodigality in Garments, your infinite Plate, and coſtly furniture in your Houſes, and the pride of your Wiues (eſpecially) be conſidered, <hi>England</hi> cannot be though ſo poore. Can you exceede all Nations in Chriſtendome in waſtfull vanities? And can you not arme your ſelues againſt one Nation, (which you haue euer beaten) for your neceſſary de<g ref="char:EOLhyphen"/>fence? Was <hi>Rome</hi> ſo braue a State, as that the ve<g ref="char:EOLhyphen"/>ry Ladies, to ſupply the Common Treaſure, and to maintaine the Warres, deſpoyled themſelues of their <hi>coſtly Iewels</hi> and <hi>rich Ornaments?</hi> And is <hi>Eng<g ref="char:EOLhyphen"/>land</hi> become ſo baſe a State, as that the people therein will not beſtow ſome part of their ſuperflu<g ref="char:EOLhyphen"/>ous expences to keepe themſelues from Conqueſt and Slauery? (The onely end of all <hi>Spaines Treaties:</hi> Witneſſe their Treaty of peace in 88. when as, euen at the inſtant their mighty Nauy came to inuade Vs) Did the godly Kings, and Religious people, which
+<pb n="15" facs="tcp:133103:9"/> you may read of in the old Teſtament, to maintaine the Warres againſt the enemies of God, ſell the Ornaments of the Temple, and things conſecra<g ref="char:EOLhyphen"/>ted to holy Vſes? And will yee that haue as <hi>Holy</hi> and as <hi>warrantable a Cauſe</hi> of <hi>Warre,</hi> ſpare thoſe things that you haue Dedicated to your idle and ſen<g ref="char:EOLhyphen"/>ſuall pleaſures? Could your Nation in thoſe former Ages, when the Country was farre poorer then now it is, leauy Armies, maintaine Warres, atchieue great Conqueſts in <hi>France,</hi> and make their power<g ref="char:EOLhyphen"/>full Armes knowne as farre as the <hi>Holy Land?</hi> And is this ſo degenerate an Age, as you will not be able to defend your owne Land? No, no, I hope there is yet left ſome ſeede of that <hi>auncient vertue:</hi> Remem<g ref="char:EOLhyphen"/>ber with what ſpirit and alacrity the Gentlemen of <hi>England</hi> did contribute and put themſelues volunta<g ref="char:EOLhyphen"/>rily into Action, in my time on earth. And doubt<g ref="char:EOLhyphen"/>leſſe, there will euer be found ſome VALERII, who (ſo the State may ſtand and flouriſh) will not care thogh they leaue not where with to bury themſelues, though other ſome bury their money, not caring in what eſtate they leaue the <hi>State.</hi>
+                  </p>
+                  <p>You had a Queene, in my time on earth, who was euer open handed to <hi>men</hi> of <hi>deſert,</hi> yet neuer waſtfull in her priuate expences; but maintained <hi>Armies</hi> and <hi>Garriſons,</hi> not a few; a <hi>well-rigged Na<g ref="char:EOLhyphen"/>uy,</hi> aſſiſted and lent money to her <hi>Neighbouring States.</hi> And why will yee doubt but with your ſea<g ref="char:EOLhyphen"/>ſonable Counſell, in a Parliamentary-courſe (the auncient and laudable Courſe of <hi>England</hi>) your King will rather ſell his <hi>Plate,</hi> and <hi>Iewels</hi> in the Tower, which in my time were of ineſtimable valew, (if yet
+<pb n="16" facs="tcp:133103:10"/> they be not ſold, nor giuen away,) rather then his people ſhall be vndefended. And yee his people, I hope will turne your golden and ſiluer Coates, into <hi>Coates of Male,</hi> or <hi>iron Iacks,</hi> and your <hi>ſiluer Plate,</hi> into <hi>Iron Corſlets of Plate,</hi> rather then your Soue<g ref="char:EOLhyphen"/>raigne and Country ſhall bee vnſerued. But what neede all this? A free and cheerefull contribution to the Warres according to your abilities will ſerue the turne. And ſo, oh Noble Prince, and Valiant People, agree to go on, the one to <hi>ſend forth,</hi> the other to <hi>lead on Gods Armies, to fight his Battailes,</hi> againſt his and your enemies; leſt they ſuddainly ſurprize you vnawares by ſome new Inuaſion; and remember that the Almighty, as he is <hi>a God of Peace</hi> in the conſciences of his Elect, ſo is he <hi>a man of War</hi> to his enemies; euen ſo his Maieſty, hath expreſſed himſelfe in holy Writ.</p>
+                  <p>Againe, in any wiſe beware of diſuniting your ſelues from the vnited States of the <hi>Netherlands:</hi> for it will be to your infinite diſaduantage ſo to do: But rather, aſſiſt, cheriſh, and hearten them: They are the beſt Confederates you haue. Remember in what ſteed they ſtood you in that <hi>memorable yeare</hi> 88. And they, being firmely knit vnto you, are of more vſe vnto you then all the Friends you haue, or can haue in Chriſtendome. In my time on earth, they were able (vpon my certaine knowledge) to find 60. or 80. Thouſand fighting Souldiers, 300 Shippes of Warre, beſides an infinite number of tranſporting Veſſells and commodious Ports, that are but a daies ſayling from the very heart of <hi>England:</hi> Since my time on earth, they are increaſed in men, in muni<g ref="char:EOLhyphen"/>tion,
+<pb n="17" facs="tcp:133103:10"/> in Shipping and in wealth; and which ſhould make the knot of vnity more ſtrong and faſt with you, they were and are of the ſame true Religion, which you profeſſe: And moreouer, now, which ſhould not be of leaſt conſideration, with your King and you: They are of late yeares Harbourers of of the exiled Princes his Maieſties Children, who are beaten out of their lawfull inheritance by <hi>Spaine</hi> and <hi>Auſtria.</hi>
+                  </p>
+                  <p>And verily, were it not that my condition here, I ſay, were free from all paſſions, my very heart would bleede to thinke on the deplorable State of Chriſtendome, how drunke thoſe two <hi>Houſes</hi> of <hi>Spaine</hi> and <hi>Auſtria</hi> haue made themſelues in the blood of Chriſtians, profeſſours of Chriſts Goſ<g ref="char:EOLhyphen"/>pell; and the very Angels do wonder to ſee how they are ſuffered to go on in their inveterate malice and furious rage againſt Gods Church, and that other Chriſtian Princes do not ſtoppe the currant of their fury: Eſpecially, that your King, who is a <hi>Profeſsor of the Goſpell,</hi> and <hi>Faiths great Defender on earth,</hi> is ſo backward in the buſineſſe.</p>
+                  <p>Which conſidered, it is your parts, eſpecially that are of his Maieſties Councell and Nobility, with faithfull hearts to perſwade and ſtirre him vp, not to let the Lyon in his Princely Breaſt, any longer to ſleepe and ſlumber, but to awake and rouze vp himſelfe, and to go forth againſt the <hi>Romiſh wolues,</hi> and <hi>Spaniſh Foxes,</hi> who haue deuoured ſo many of Chriſts Sheepe, and layd his Vineyard ſo waſt: Yea, the blood of the Saints doth continually cry at Heauen gates for Vengeance.</p>
+                  <pb n="18" facs="tcp:133103:11"/>
+                  <p>To draw to an end, I wil not ceaſſe to intercede to the Almighty my euer glorious God, that he ne<g ref="char:EOLhyphen"/>uer denounce the curſe againſt your King, or yee his Nobles, which he once in his word denounced a<g ref="char:EOLhyphen"/>gainſt Meros, &amp;c.</p>
+                  <p>My Concluſion ſtill is, and ſhall be: <hi>Iustiſſi<g ref="char:EOLhyphen"/>mum ijs Bellum quibus neceſſarium, et pia Arma qui<g ref="char:EOLhyphen"/>bus nullum niſi in armis ſpes eſt.</hi> And for an <hi>vlti<g ref="char:EOLhyphen"/>mum Vale,</hi> as in my Apology I aduiſed to <hi>Remember</hi> how <hi>Bernardine Mendoza (the then Ambaſſadour of</hi> Spaine) <hi>ſpent his time here in</hi> England: So, I now aduiſe you, <hi>Remember how your late</hi> Spaniſh <hi>Embaſ<g ref="char:EOLhyphen"/>ſadors haue ſpent their times, and behaued themſelues here in</hi> England, &amp;c.</p>
+                  <p>The Peace of God, which paſſeth all (earthly) vnderſtanding be with you, and dwell in your hearts.</p>
+                  <q>
+                     <l>My Declaration's ended, I must no longer ſtay,</l>
+                     <l>Becauſe Heau'ns Cornets ſummon me away:</l>
+                     <l>The Bleſſed Quire of Heauen I do heare,</l>
+                     <l>Tuning their Voyces to th' Almighties eare.</l>
+                  </q>
+                  <closer>HAL╌LE╌LV╌jAH HAL╌LE╌LV╌jAH. Ha╌le╌lu╌jah.</closer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:133103:11"/>
+                  <p>A POST-SCRIPT, OR, A SECOND PART OF ROBERT EARLE OF ESSEX HIS GHOST.</p>
+                  <p>To the Nobility, Gentry, and Communalty of ENGLAND.</p>
+                  <figure>
+                     <figDesc>printer's illustration</figDesc>
+                  </figure>
+                  <p>Printed in PARADISE. 1624.</p>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb facs="tcp:133103:12"/>
+                  <pb n="1" facs="tcp:133103:12"/>
+                  <head>TO THE NOBILITIE, Gentry, and Communalty, of ENGLAND.</head>
+                  <opener>
+                     <salute>
+                        <seg rend="decorInit">T</seg>Hrice Beloued Mortals:</salute>
+                  </opener>
+                  <p>I being ſtill Studious of your welfares, and ha<g ref="char:EOLhyphen"/>uing obtained leaue of the Almighty, I am now to giue vnto you and com<g ref="char:EOLhyphen"/>mend vnto your conſideration a Ca<g ref="char:EOLhyphen"/>talogue and Commemoration of ſuch cruell Plots, as were practized in my time on Earth, by the King and State of <hi>Spaine,</hi> againſt the Queene and State of <hi>England:</hi> Wherein, I will not meddle with Practiſes and Cruelties to other Nations; and therefore I omit to tell you how farre their Cruelties extended to the <hi>poore naked Indians</hi> in <hi>America,</hi> though I remember, whiles I was on Earth, I haue ſeene a Booke, as well in Engliſh, as in Spaniſh and Latine, intituled, <hi>The Cruelties and Tyrannies of the Spaniſh Coloni, perpetrated in the Weſt-Indies, commonly called the New-found World, written in the Caſtilian Tongue by the Reuerend</hi> Bartholomew De las Caſas, <hi>a Frier of the Order of St.</hi> Dominick, <hi>and Biſhop of the Royall Towne called</hi> Chiapa; <hi>ſeruing as a warning to the twelue Vnited Prouinces of the
+<pb n="2" facs="tcp:133103:13"/> Low-Countries: Tranſlated into Engliſh, and Printed, (as I take it,) in the</hi> 25 <hi>yeare of the happy Reigne of that Virgin Empreſſe, Queene</hi> Elizabeth, <hi>my gracious So<g ref="char:EOLhyphen"/>ueraigne:</hi> The lamentable Relation whereof, if you would particularly know, I wiſh you haue recourſe vnto the ſayd Booke. And of their cruelties and Tyrannies exerciſed by their Arch-Tyrannous Ge<g ref="char:EOLhyphen"/>nerall Duke D' <hi>Alva</hi> towards the <hi>Netherlanders,</hi> if you know them not, looke but into <hi>their</hi> Chroni<g ref="char:EOLhyphen"/>cles. And for their plots and practiſes towards <hi>England,</hi> before my time, looke but into your owne Chronicles.</p>
+                  <p>But, before I come to my Catalogue, I muſt commend vnto your conſideration, When I was but an Infant, there came a certaine Bull from <hi>Pius Quintus,</hi> that <hi>impious</hi> Pope of <hi>Rome,</hi> againſt Queene <hi>Elizabeth:</hi> The Copy of which Bull is alſo to be ſeene in your Chronicles: But the Copy of her Sacred Maieſties Anſwere vnto the ſayd Bull, becauſe you haue not elſewhere ſeene it, (as moſt Worthy your reading and obſeruation,) I here inſert it:
+<q>
+                        <l>The Lord that Reignes on high in Heauens Throne</l>
+                        <l>Doth Kingdomes rule below, 'tis He alone</l>
+                        <l>That Earth doth gouerne with high thundring might,</l>
+                        <l>And moderates the staffe of Kingdomes right:</l>
+                        <l>'Tis H<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> that guides with his Almighty Name,</l>
+                        <l>The wheele of all this Vniverſall frame:</l>
+                        <l>'Tis He that Kings annointed and Elect,</l>
+                        <l>And ſacred Captaines ſtrongly will protect.</l>
+                        <pb n="3" facs="tcp:133103:13"/>
+                        <l>Why ſhould this Bull-head Biſhop therefore, full</l>
+                        <l>Of rage, againſt me roare with Baſan Bull,</l>
+                        <l>To plucke me from my Sacred Seate and Throne,</l>
+                        <l>T'out root the Plant which Chriſt himſelfe hath ſowne?</l>
+                        <l>Why doth this <hi>Pius</hi> ſeeke with <hi>impious</hi> guilt,</l>
+                        <l>To pull downe that which God himſelfe hath built?</l>
+                        <l>Chriſt me annointed, and annoint I hope,</l>
+                        <l>Will keepe me from the jawes of this proud Pope:</l>
+                        <l>His powerfull Hand hath kept me yet from harme,</l>
+                        <l>Nor will the Lord make ſhort his out-stretcht Arme.</l>
+                        <l>If God be on my ſide, why doth this Popiſh wonder</l>
+                        <l>Seeke to affright me with his beaſtly Thunder?</l>
+                        <l>Why doth this new-borne Gyant ſeeke to ride</l>
+                        <l>Aboue the Clouds with his prodigious pride?</l>
+                        <l>Gainſt Heauen why doth this Nimrod make new warrs,</l>
+                        <l>And with <hi>Iehovah</hi> breed theſe impious jarrs?</l>
+                        <l>
+                           <hi>Pius</hi> this Anchor of thy Peters bote</l>
+                        <l>Is broake, thy hope and faith doth floate.</l>
+                        <l>
+                           <hi>Yee,</hi>
+                           <note place="margin">An Exhortati<g ref="char:EOLhyphen"/>on to other Princes.</note> in whoſe hands the Almighty God ordaines</l>
+                        <l>To put the peoples and the Kingdomes reines,</l>
+                        <l>Do not your ſelues, and people bring,</l>
+                        <l>Vnder the yoake of this vile borbarous King.</l>
+                        <l>Away with him that doth for Scepter fight</l>
+                        <l>And royall Crowne, that is not Biſhops right:</l>
+                        <l>What, muſt the Pope ſo many States deuoure?</l>
+                        <l>Its not Prieſts part to vſe the Carnall powre:</l>
+                        <l>To make theſe madding Buls fits not their names,</l>
+                        <l>And ſet on fire theſe hote rebellious flames.</l>
+                        <l>Their <hi>Sword,</hi> the <hi>Word</hi> ſhould be, the words interpretation,</l>
+                        <l>Their <hi>Key</hi> ſhould be, this is the foundation,</l>
+                        <l>Whereon Chriſts Saints do fight, ſuch men Chriſts ſword do weare,</l>
+                        <l>Such do his holy keyes and Standard beare.</l>
+                        <pb n="4" facs="tcp:133103:14"/>
+                        <l>Oh Kings; the fathers bleſsed ſonne then kiſse;</l>
+                        <l>
+                           <note place="margin">Pſalme 2.</note>The King of Kings, the Head of Heads he is,</l>
+                        <l>Who ſerues not him, not reignes, a ſhadow vaine</l>
+                        <l>And Cyphar is, learne this all by my Reigne:</l>
+                        <l>He'le neuer faile you whom a woman bore,</l>
+                        <l>
+                           <note place="margin">Pſalme 24.</note>Away with Popes, to them ſet ope the doore:</l>
+                        <l>Set wide the Gate, ſhut forth theſe new made Kings,</l>
+                        <l>Let in the Lord, which with him Iustice brings.</l>
+                        <l>Deere <hi>England,</hi> mine owne Bowels, Daughter, Mother,</l>
+                        <l>Feare not this bulling <hi>Pious,</hi> or ſuch other.</l>
+                        <l>What haue I done that Thou ſhouldſt angry be?</l>
+                        <l>
+                           <hi>Oh England,</hi> cauſe th'art happy hateſt thou me?</l>
+                        <l>Cauſe God by me ſo many gifts hath giuen,</l>
+                        <l>And I theſe gifts, on earth, God loath'd, in Heauen?</l>
+                        <l>Why do my Engliſh loue the Egyptian Pot?</l>
+                        <l>Why lookes on Sodome backe the wife of Lot?</l>
+                        <l>Whiles that my <hi>Siſter</hi> was at Romiſh call,</l>
+                        <l>There was a <hi>Stage</hi> and <hi>Scoene</hi> moſt <hi>Tragicall:</hi>
+                        </l>
+                        <l>Religion was corrupted, all your Rite</l>
+                        <l>Diuine was ſtain'd, Faith wrapt in errors night,</l>
+                        <l>Home jarrs and ſtrange, my Muſe now ſhall not ſhow,</l>
+                        <l>Euen I my ſelfe dranke cupps of Gall with you.</l>
+                        <l>Now Manna raines from Heauen, Heauenly food,</l>
+                        <l>Now floweth <hi>Peace</hi> and Ioy and euery <hi>Good:</hi>
+                        </l>
+                        <l>Hee that feedes Rauens makes my <hi>Lillyes</hi> flouriſh,</l>
+                        <l>Haires of my <hi>Head</hi> and <hi>Diadem</hi> doth nouriſh:</l>
+                        <l>
+                           <hi>Iuda's</hi> ſtrong <hi>Lyon</hi> keepes our <hi>Lyons</hi> neſt,</l>
+                        <l>The Romiſh <hi>Leo's</hi> but a fearefull Breaſt;</l>
+                        <l>Feare yee the Enſignes of a Mitred Priest?</l>
+                        <l>Can we with <hi>Sword, Keys, Club</hi> be ere opprest?</l>
+                        <l>Rather thanke Chriſt, pray him that he all euill</l>
+                        <l>He would reſiſt, all Ambuſhes of th'Deuill,</l>
+                        <pb n="5" facs="tcp:133103:14"/>
+                        <l>Double your prayers to Christ that he would deigne</l>
+                        <l>T'aſſure your good and let no Rhombus reigne:</l>
+                        <l>Double your prayers for Church &amp; pureſt <hi>Faith,</hi>
+                        </l>
+                        <l>Powre forth your prayers for Queene <hi>Elizabeth.</hi>
+                        </l>
+                     </q>
+                  </p>
+                  <p>I haue inſerted this anſwere of Queene <hi>Eliza<g ref="char:EOLhyphen"/>beth</hi> not onely for the worth of it, (though I hold it worthy to be written in Letters of Gold:) nor will I ſay that <hi>Philip</hi> King of <hi>Spaine</hi> was an inſtigaſtour of <hi>Pius</hi> Pope of <hi>Rome,</hi> to ſend that curſed Bull: But it was plaine and more then probable, that that Bull was the ground which ſet on fire the hearts of her Popiſh Romiſh-Subjects to riſe in Rebellion againſt her; and ſure I am that <hi>Spaine</hi> ſoone backed them, and ſubborned them in their Rebellion and cruell practiſes againſt her Sacred Perſon, and flou<g ref="char:EOLhyphen"/>riſhing State: Witneſſe the Bead-roll of their cru<g ref="char:EOLhyphen"/>ell Practiſes here following.</p>
+                  <p>In the yeare of our Bleſſed Sauiour 1583. and 25. of Queene <hi>Elizabeth</hi> her Reigne, <hi>Francis Throk<g ref="char:EOLhyphen"/>morton,</hi> being ſollicited by <hi>Bernardine Mendoza</hi> (the then Spaniſh Embaſſador Lieger, lying in <hi>Londo<g ref="char:cmbAbbrStroke">̄</g>
+                     </hi>) vn<g ref="char:EOLhyphen"/>dertook a moſt dangerous deſigne againſt his Dread Soueraigne and Natiue Country, which was to bring in a <hi>Forraine (Spaniſh) Army,</hi> and to <hi>alter Reli<g ref="char:EOLhyphen"/>gion,</hi> with <hi>alienation of the Crowne and State:</hi> And for the charges of which attempt, the ſayd <hi>Men<g ref="char:EOLhyphen"/>doza</hi> promiſed that the King his Maiſter would beare halfe the charge of the Enterprize.</p>
+                  <p>In the next yeare, <hi>viz.</hi> 1584. <hi>William Parry,</hi> (as he named himſelfe) being inſtigated by <hi>Benedicto
+<pb n="6" facs="tcp:133103:15"/> Palmio, &amp; Christofero de Salazar,</hi> (Secretary to the Catholicke King <hi>Philip</hi>) vndertooke to mur<g ref="char:EOLhyphen"/>ther her Sacred Maieſty, and one <hi>Haniball Codreto</hi> a Spaniſh Prieſt, approued the ſame Diabolicall Deſigne.</p>
+                  <p>In the yeare 1586. <hi>Babington</hi> and <hi>Ballard,</hi> and their fellowes, complotted with the aforeſayd <hi>Mendoza,</hi> to betray the Land to a <hi>Spaniſh Invaſion:</hi> Which being diſcouered, they enter into a new re<g ref="char:EOLhyphen"/>ſolution to kill the Queene: Whereof they were preuented.</p>
+                  <p>But <hi>Phillip</hi> of <hi>Spaine,</hi> ſeeing that all former attempts fayled. In the yeare 1588. hee ſet for<g ref="char:EOLhyphen"/>wards his long premeditated <hi>Invaſion of England,</hi> ſending a mighty Armado, which hee tearmed the <hi>Invinſible Nauy,</hi> meaning then, as it were, to de<g ref="char:EOLhyphen"/>uoure <hi>England</hi> at a Bit: But hee found ſo many bones in the Bit, that in attempting to ſwallow it, they ſtucke ſo faſt in his throate, that he was the worſe for it euery day of his life after.</p>
+                  <p>This <hi>great, noble</hi> and <hi>invincible Army,</hi> (as Pope <hi>Sixtus</hi> termed it,) and <hi>Terrour of Europe,</hi> (as the Pa<g ref="char:EOLhyphen"/>pals both terme it and tooke it to be) conſiſting of 134. Sayle of lofty Towring Ships, beſides Gallies, Galliaſſes, and Gallions, threatning, as it were the Heauens; and ſpreading in the Wind their Flaggs, Streamers, and Enſignes, ſeemed to darken e<g ref="char:EOLhyphen"/>uen the Sun; and were furniſhed with this proviſion following; Bullets for great ſhot 22000. Powder 40200. Kintalls, (euery kintall an hundred weight;) Lead for Bullets 1000. kintals; Match 10200. kin<g ref="char:EOLhyphen"/>talls; Muskets and Calieuers 7000. Partizans and
+<pb n="7" facs="tcp:133103:15"/> Halbert 1000. beſides murdering peeces, double Cannons, and Field-peeces for Campe, and ſtore of Mules, Horſes, and Aſſes: ſo as they were ſuffici<g ref="char:EOLhyphen"/>ently provided by Sea and for Land: Bread and Bis<g ref="char:EOLhyphen"/>ket was baked, and Wine layd aboord for ſixe Moneths proviſion; Bacon 60500. kintalls; Cheeſe 3000. beſides other fleſh, Rice, Beanes, Peas, Oyle, and Vinegre, with 12000. Pipes of freſh water; ſtore they had of Torches, Lanthornes and Lamps, Canuas, Hides, and Lead to ſtoppe leakes; butcherly kniues, iron ghiues, ſhackles, wire<g ref="char:EOLhyphen"/>whipps, whips with ſpurre-rowels, and other tor<g ref="char:EOLhyphen"/>turing inſtruments, intended to torment vs, old and young, (all ſuch I meane as would not ſuddainly ſub<g ref="char:EOLhyphen"/>mit to the Spaniſh yoake.)</p>
+                  <p>This <hi>mighty Nauy</hi> thus prepared as you haue heard, looſed Anchor from <hi>Lisbone</hi> 19. <hi>Maij</hi> 88. and made to the <hi>Groine</hi> in <hi>Galizia,</hi> it being the nee<g ref="char:EOLhyphen"/>reſt Haven to <hi>England:</hi> whence, I ſay, hoyſing ſailes, with great hope and no leſſe pride, bent their courſe hitherward: But ſuddainly the Heauens, hating ſuch hoſtile actions, powred downe reuenge, by a ſore and vnexpected Tempeſt, which draue the Duke of <hi>Medina</hi> (the chiefe Generall) backe againe into the <hi>Groine;</hi> and diuers others were diſperſed and driuen vpon the Coaſt of <hi>Bayon</hi> in <hi>France,</hi> and there periſhed. Not long after, their Nauy neuer<g ref="char:EOLhyphen"/>theleſſe appeared in the Narrow-Seas, twixt <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and <hi>France,</hi> in manner of an <hi>halfe moone</hi> (the Arch-enemy of Chriſt his Enſigne:) where, our Engliſh Fleete gaue them ſuch an encounter, (the God of the <hi>maine Ocean</hi> fighting for vs in the
+<pb n="8" facs="tcp:133103:16"/> 
+                     <hi>Narrow-Seas</hi>) that we ſoone defeated and diſperſed that <hi>Invincible Nauy,</hi> and made it <hi>Vincible.</hi>
+                  </p>
+                  <p>Now, becauſe the Subject I am vpon is a Cata<g ref="char:EOLhyphen"/>logue of Spaniſh cruelties, I would faine know whether there was euer inuented a greater Cruelty towards, and againſt a famous and flouriſhing State and Kingdome: Surely, in my judgement (which did concurre with the judgement of the Chriſtian World) there was neuer ſuch, and ſo great a cruelty hatched vnder Heauen as that Spaniſh Invaſion 88. our <hi>Deliuerance</hi> from the which, hath made the yeare euer ſithens famous and memorable; vp<g ref="char:EOLhyphen"/>on my knowledge, when I was on earth, there was <hi>a Day</hi> ſet a part, and commanded by my Soue<g ref="char:EOLhyphen"/>raigne, to be kept <hi>Holy,</hi> for that our great and mi<g ref="char:EOLhyphen"/>raculous <hi>Deliuerance</hi> from the Iawes of the Spani<g ref="char:EOLhyphen"/>ard; and I wiſh that your vnthankfulneſſe in the neglect of Celebrating <hi>that Day, holy,</hi> be not requi<g ref="char:EOLhyphen"/>red at ſome of your hands: And certes, thoſe reue<g ref="char:EOLhyphen"/>rend Divines that doe neuer ceaſe in their publicke Prayers to giue God thankes for <hi>that</hi> your great <hi>De<g ref="char:EOLhyphen"/>liuerance</hi> do ſhew their zeale not a little, and deſerue double Commendation: Yea, and let my Poſterity no longer liue and proſper, than ſo long as they haue thankefull hearts to God for that <hi>generall Deliue<g ref="char:EOLhyphen"/>rance;</hi> and let the poſterity of all Religious People ſay, Amen.</p>
+                  <p>For, all men and women, that would not haue bowed the knee to (Spaniſh) <hi>Ball,</hi> had then doubt<g ref="char:EOLhyphen"/>leſſe beene put to the ſword, their children (now haply living, men and women) had beene toſſed at the Pikes ends, or elſe their braines daſhed out by
+<pb n="9" facs="tcp:133103:16"/> ſome ill-fac'd Donns or other: Strangers haue not beene wanting to commemorate that Time of <hi>Eng<g ref="char:EOLhyphen"/>lands Deliuerance,</hi> and amongſt others, I remember Reuerend and Religious <hi>Theodore Beza</hi> (of pious memory) wrote a ſweet and patheticall poeme, gra<g ref="char:EOLhyphen"/>tulatory, of the aforeſayd Tragy-Comedy in Latine, inſcribed to the Queene my Soueraigne, and ſent vn<g ref="char:EOLhyphen"/>to me to deliuer vnto her Royall hands: the which is thus excellently rendred in Engliſh:
+<q>
+                        <l>
+                           <hi>Spaines</hi> King with Nauies huge the ſea's beſtrewd,</l>
+                        <l>T augment with <hi>Engliſh</hi> Crowne his <hi>Spaniſh</hi> ſway;</l>
+                        <l>Aske yee what caus'd this proud attempt? 'tas lewd,</l>
+                        <l>
+                           <hi>Ambition</hi> droue, and <hi>Avarice</hi> led the way.</l>
+                        <l>It's well; <hi>Ambitions</hi> windy puff lies drown'd</l>
+                        <l>By Winds, and ſwelling hearts, by ſwelling waues:</l>
+                        <l>It's well; the <hi>Spaniards</hi> who the worlds vast round</l>
+                        <l>Deuour'd, deuouring Sea moſt juſtly craues.</l>
+                        <l>But Thou, ô Queene, for whom Winds ſeas do warre,</l>
+                        <l>Oh Thou ſole glory of the Worlds wide Maſſe,</l>
+                        <l>So reigne to God ſtill, from Ambition farre,</l>
+                        <l>So ſtil with bounteous Aids the <hi>Good</hi> embrace.</l>
+                        <l>That Thou, <hi>England,</hi> long, long may <hi>England</hi> Thee enjoy,</l>
+                        <l>Thou Terrour of all <hi>Bad,</hi> Thou <hi>Good</hi> mens Ioy.</l>
+                     </q>
+                  </p>
+                  <p>Oh let the Remembrance of that Time haue an eternall being in the Mindes and Mouthes of Men.</p>
+                  <p>I haue beene ſomewhat long in the commemo<g ref="char:EOLhyphen"/>ration of this part of my Catalogue of Cruelties, I now proceede to the Reſidue as followeth.</p>
+                  <p>In the yeare 1594. <hi>Rodericke Lopez</hi> Doctor of
+<pb n="10" facs="tcp:133103:17"/> Phyſicke, a <hi>Portugall</hi> by birth, (and entertained Phy<g ref="char:EOLhyphen"/>ſician in Ordinary to Queene <hi>Elizabeth</hi>) being inſti<g ref="char:EOLhyphen"/>gated by <hi>Chriſtofero de Moro</hi> (a ſpeciall Counſellour of King <hi>Philips</hi>) couenanted to take away the life of her Sacred Maieſty, by a poyſoned Potion, for performance of which deede of darkneſſe, the ſaid <hi>de Moro</hi> promiſed him 50000. Crownes, and hee had earneſt giuen him, a Iewell of Gold with a Di<g ref="char:EOLhyphen"/>mond and Ruby of rich valew: but that plot was detected by Gods providence, and <hi>Lopez</hi> receiued condigne puniſhment.</p>
+                  <p>In the yeare 1595. <hi>Edmund Yorke</hi> and <hi>Richard Williams,</hi> being ſet on worke by one <hi>Stefano Ibarra,</hi> King <hi>Phillips</hi> Secretarie at <hi>Bruxelles,</hi> who promiſed them the reward of 4000. Crownes vndertooke to kill the Queene by ſome meanes or other: but that alſo was detected by the vigilant eye of the <hi>Engliſh</hi> State, and they receiued the reward of their deſerts.</p>
+                  <p>When King <hi>Phillip</hi> ſaw all his practiſes ſtill fru<g ref="char:EOLhyphen"/>ſtrated, he, as audacious as ambitious, began to tam<g ref="char:EOLhyphen"/>per with my Selfe, and by his Inſtruments ſought out me as a fit man to betray both my ſacred Soue<g ref="char:EOLhyphen"/>raigne and deere Countrey: I forb<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> to trouble your eares with the latitude of his large bumbaſted Promiſes of reward vnto me to effect the ſame: but in lieu of accepting his curſed Propoſition and offer, I vowed a further reuenge of him: and with my So<g ref="char:EOLhyphen"/>ueraignes leaue and Gods aſſiſtance, I had performed what I vowed and intended, &amp;c.</p>
+                  <p>The laſt publicke Attempter in my time, which in no wiſe I muſt forget, was one <hi>Edward Squire,</hi> who, being taken Priſoner in Spaine, was ſet on worke by
+<pb n="11" facs="tcp:133103:17"/> 
+                     <hi>Walpoole</hi> the Ieſuite, and other officers of King <hi>Phil<g ref="char:EOLhyphen"/>lip</hi> to murther <hi>her ſacred Maieſtie,</hi> and <hi>my Selfe,</hi> which he vndertook, and brought ouer a new inven<g ref="char:EOLhyphen"/>ted Caſtillian Confection: firſt, to poyſon the Pom<g ref="char:EOLhyphen"/>mels of her Maieſties ſaddle, and then the Pommels of a chayre wherein I vſually ſate at ſea, both which he fayled not to attempt: But by Gods goodneſſe his cruell and treaſonable attempts proued alſo ſuc<g ref="char:EOLhyphen"/>ceſſeleſſe, and this proper <hi>Squire</hi> had the reward of his Diuelliſh practiſes.</p>
+                  <p>Of all theſe cruell Spaniſh practiſes, I was more than an ordinary witneſſe: And theſe premiſſes con<g ref="char:EOLhyphen"/>ſidered, what Treaſon was euer attempted againſt her Maieſties ſacred Perſon or flouriſhing State, but the Spaniard was at one end or other of it? Nay, ſince my time on Earth, and the death of her Maie<g ref="char:EOLhyphen"/>ſtie, That horrid <hi>Gun Powder Plot,</hi> hatched in Hell, was it not conſulted on and approued of in the Spa<g ref="char:EOLhyphen"/>niſh Kings Court? Looke well to the confeſſions of the Traytors:<note place="margin">Speed, in Hiſt. pag. <hi>1246.</hi>
+                     </note> And did not King <hi>Phillip</hi> promiſe 100. thouſand Crownes towards the expedition of that damnable deed of darkneſſe? Looke into your owne Chronicles.</p>
+                  <p>Now, all the Premiſſes wel weighed and conſide<g ref="char:EOLhyphen"/>red; Certes, the Turke ought not to be more hated and abhorred by Chriſtendom than the Spani<g ref="char:EOLhyphen"/>ard deſerueth to be deteſted by <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> &amp;c. <hi>Diſcite ô Mortales.</hi>
+                  </p>
+                  <closer>
+                     <salute>Iterum in Chriſto Valete.</salute>
+                  </closer>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
